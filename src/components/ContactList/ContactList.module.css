@@ -4,3 +4,17 @@
     flex-wrap: wrap;
     gap: 8px 8px;
 }
+.list {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+}
+.item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    border: none;
+    border-radius: 4px;
+}

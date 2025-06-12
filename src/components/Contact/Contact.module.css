@@ -15,6 +15,20 @@
     margin-right: 8px;
 }
 
+.dcr {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    gap: 10px;
+}
+
 .btn {
+    padding: 4px 10px;
+    background-color: #373358;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 12px;
     cursor: pointer;
 }

@@ -1,8 +1,14 @@
 .container {
-    width: 370px;
+    width: 400px;
     margin-bottom: 24px;
 }
 
 .field {
     width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
